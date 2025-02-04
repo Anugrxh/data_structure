@@ -1,0 +1,114 @@
+1)
+
+  i5-4460S
+  O(n) took 0.000989
+ seconds for n = 100000
+  O(n^2) took 21.552000 seconds for n = 100000
+
+2)
+
+i5-4460S
+ O(n) took 0.000959 seconds for n = 100000 
+ O(n^2) took 20.889201 seconds for n = 100000
+
+3)
+
+i5-4460S 
+0(n) took 0.000865 seconds for n = 100000
+ O(n^2) took 22.387099 seconds for n = 100000
+
+4)
+
+i5-4460S 
+
+0(n) took 0.000249 seconds for n = 100000
+ 0(n^2) took 24.798328 seconds for n = 100000
+
+5)
+
+i5-4460S 
+
+0(n) took 0.000328 seconds for n = 100000 
+0(n^2) took 21.399481 seconds for n = 100000
+
+6)
+
+i5-4460S 
+
+O(n) took 0.000320 seconds for n = 100000
+O(n^2) took 21.599269 seconds for n = 100000
+
+7)
+
+i5-4460S 
+
+O(n) took 0.000894 seconds for n = 100000
+ O(n^2) took 21.408919 seconds for n = 100000
+
+
+
+
+
+8)
+
+i5-4460S 
+
+0(n) took 0.000775 seconds for n = 100000
+ O(n^2) took 20.887022 seconds for n = 100000
+
+9)
+
+i5-4460S 
+
+
+0(n) took 0.000908 seconds for n = 100000 
+O(n^2) took 20.849592 seconds for n = 100000
+
+10)
+
+i5-4460S 
+
+O(n) took 0.000881 seconds for n = 100000 
+O(n^2) took 21.301035 seconds for n = 100000
+
+11)
+
+i5-4460S 
+
+0(n) took 0.000354 seconds for n = 100000 
+0(n^2) took 21.548860 seconds for n = 100000
+
+12)
+
+i3-9100
+
+O(n) took 0.000177 seconds for n = 100000 
+O(n^2) took 19.329474 seconds for n = 100000
+
+13)
+
+i3-2120
+
+0(n) took 0.000244 seconds for n = 100000
+ 0(n^2) took 21.442800 seconds for n = 100000
+
+
+
+
+
+14)
+
+i3-2120
+
+O(n) took 0.000243 seconds for n = 100000
+ 0(n^2) took 21.472854 seconds for n = 100000
+
+
+15)
+
+i3-2120
+
+0(n) took 0.000322 seconds for n = 100000
+ O(n^2) took 21.519772 seconds for n = 100000
+
+
